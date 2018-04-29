@@ -1,0 +1,31 @@
+*.class
+*.log
+*.jar
+target
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Editors
+*.swp
+*.swo
+.classpath*
+.project
+.settings
+*.DS_Store
+nb-*
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Developer Files
+.env
